@@ -1,8 +1,8 @@
 {
-  "title": "Stylish Portfolio",
-  "name": "startbootstrap-stylish-portfolio",
+  "title": "Northnern Portfolio",
+  "name": "portfolio",
   "version": "4.0.0-beta",
-  "description": "A stylish portfolio HTML template built with Bootstrap",
+  "description": "A portfolio built with Bootstrap",
   "keywords": [
     "css",
     "sass",
@@ -11,20 +11,13 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
+  "homepage": "",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/northnern",
+    "email": ""
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
-  },
+  "author": "",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "font-awesome": "4.7.0",
